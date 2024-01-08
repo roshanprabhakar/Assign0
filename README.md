@@ -21,7 +21,7 @@ git and GitHub are industry standards in software development. It's important to
 
 5. **Create a README File**
    - Create a readme file named `README-<your SUNet ID>.md`.
-   - Use markdown to outline your technical skills, previous projects, or any past experiences.
+   - Use [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) to outline your technical skills, previous projects, or any past experiences.
    - Consider this README as an introduction to your potential teammates! Feel free to include images, links, or additional media.
 
 6. **Create a Pull Request**
