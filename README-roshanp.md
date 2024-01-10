@@ -1,6 +1,8 @@
 # Roshan Prabhakar
 ---
 
+Hi! I'm a junior from Cupertino CA studying Computer Science with a Systems concentration.
+
 ## Key Interests and skills...
 
 - I have experience across the development stack, from developing user-facing interfaces to designing systems-facing interfacts
