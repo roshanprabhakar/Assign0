@@ -39,4 +39,4 @@
 - Implements multiple construction algorithms for these codes, and extends a previous library for regular LDPC codes. <br>
 [Read more here!](https://roshanprabhakar.github.io/personal-site/#section=protograph-ldpc)<br><br>
 
-If interested, you can find my complete research background [here](https://roshanprabhakar.github.io/personal-site/#section=protograph-ldpc)
+If interested, you can find my complete research background [here](https://roshanprabhakar.github.io/personal-site/)
